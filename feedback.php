@@ -11,7 +11,7 @@ $uttam_user = new User($conn,$uttam_user_id);
 	<title>About</title>
 	<style type="text/css">
 		.back_to_home_button{
-			margin-left: 5px;
+			margin-left: 10px;
  			background-color: #fff;
 			font-size: 16px;
 			padding:6px;
